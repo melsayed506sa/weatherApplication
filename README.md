@@ -1,8 +1,6 @@
-# weatherApplication
-It is a front-end app which fetches weather data from an external API and preview the weather when you enter the zip Code of the location 
 # Weather Application 
 
-It is an application for getting the weather information by giving the zip code of the location need.
+It is an application for getting the weather information by giving the zip code of the location need by fetching weather data from an external API [Openweathermap](https://openweathermap.org/api) 
 
 ## Software and Firmware needed
 
