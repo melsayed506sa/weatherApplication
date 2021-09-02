@@ -19,12 +19,12 @@ npm install body-parser
 npm install cors
 ```
 ## List of files included in the project
-->weather \
----->app.js \
----->index.httml \
----->style.css  \
-->server.js  \
-->package-lock.json ​
+- weather \
+-- app.js \
+-- index.httml \
+-- style.css  
+- server.js  
+- package-lock.json ​
 
 
 
